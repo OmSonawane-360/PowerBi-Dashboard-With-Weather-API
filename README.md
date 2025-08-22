@@ -64,10 +64,14 @@ It provides a comprehensive **visual summary of current conditions and forecasts
 - 🔑 API Key from [WeatherAPI.com](https://www.weatherapi.com).  
 - 📘 Basic knowledge of Power Query & Power BI visuals.
 
+---
+
 ### 📊 Usage
 - 🖥️ Explore dashboard pages with current & forecast visuals.
 - 🖱️ Interact with filters, cards, and charts.
 - 📅 Optional: Setup scheduled refresh in Power BI Service (Pro license). 
+
+---
 
 ### 🎨 Customization
 - 🌍 Add multiple cities with dynamic parameters.
@@ -75,9 +79,17 @@ It provides a comprehensive **visual summary of current conditions and forecasts
 - 🖌️ Use custom visuals (KPIs, maps, gauges).
 - ⚙️ Change units (Celsius/Fahrenheit) or language via API.
 
+---
+
 ### 👤 Author & Resources
 - 👨‍💻 Author: Om Sonawane
 - 📖 Tutorial Reference: Youtube
 
+---
+
 ### Screenshot
-  Show what the disboard looks like - ![Alt text](https://github.com/OmSonawane-360/PowerBi-Dashboard-With-Weather-API/blob/main/WeatherAPI_Dashboard.png)
+
+  - ![Alt text](https://github.com/OmSonawane-360/PowerBi-Dashboard-With-Weather-API/blob/main/WeatherAPI_Dashboard.png)
+
+
+---
