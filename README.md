@@ -53,11 +53,10 @@ It provides a comprehensive **visual summary of current conditions and forecasts
   5. 📊 Build visuals (charts, cards, KPIs) in Power BI.  
 
 📌 Example API URL:  
-https://api.weatherapi.com/v1/forecast.json?key=YOUR_API_KEY&q=New York&days=5&aqi=no&alerts=no
+(https://api.weatherapi.com/v1/forecast.json?key=YOUR_API_KEY&q=New York&days=5&aqi=no&alerts=no)
 
 ---
-
-## ⚡ Getting Started  
+[Dashboard ] (https://github.com/OmSonawane-360/PowerBi-Dashboard-With-Weather-API/blob/main/WeatherAPI_Dashboard.png)
 
 ### 🛠️ Prerequisites  
 - 💻 Power BI Desktop (latest version).  
