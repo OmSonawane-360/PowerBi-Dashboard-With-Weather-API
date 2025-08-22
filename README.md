@@ -80,4 +80,4 @@ It provides a comprehensive **visual summary of current conditions and forecasts
 - 📖 Tutorial Reference: Youtube
 
 ### Screenshot
-  Show what the disboard looks like - ![Alt text]()
+  Show what the disboard looks like - ![Alt text](https://github.com/OmSonawane-360/PowerBi-Dashboard-With-Weather-API/blob/main/WeatherAPI_Dashboard.png)
