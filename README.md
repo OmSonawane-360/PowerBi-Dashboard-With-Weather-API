@@ -9,7 +9,7 @@ A dynamic **Power BI dashboard** that displays real-time weather data using [Wea
 - 🎯 [Why This Project](#why-this-project)  
 - ✨ [Features](#features)  
 - 🌐 [Data Source & API](#data-source--api)   
-- ⚡ [Getting Started](#getting-started)   
+- ⚡ [Getting Started](#getting-started)    
   - 🛠️ [Prerequisites](#prerequisites)   
 - 📊 [Usage](#usage)  
 - 🎨 [Customization](#customization)
