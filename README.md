@@ -2,7 +2,7 @@
 
 A dynamic **Power BI dashboard** that displays real-time weather data using [WeatherAPI.com](https://www.weatherapi.com) This dashboard allows users to visualize current and forecast weather metrics in an interactive, professional format.  
 
----
+--- 
 
 ## 📑 Table of Contents
 - 🔎 [Overview](#overview)    
