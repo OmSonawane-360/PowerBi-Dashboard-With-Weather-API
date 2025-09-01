@@ -52,7 +52,7 @@ It provides a comprehensive **visual summary of current conditions and forecasts
   2. 🌍 Construct API request URL (e.g., current weather/forecast).  
   3. 🔗 Connect via **Power BI → Get Data → Web**.  
   4. 🛠️ Transform JSON data with **Power Query**.  
-  5. 📊 Build visuals (charts, cards, KPIs) in Power BI.  
+  5. 📊 Build visuals (charts, cards, KPIs) in Power BI.   
 
 📌 Example API URL:  
 (https://api.weatherapi.com/v1/forecast.json?key=YOUR_API_KEY&q=New York&days=5&aqi=no&alerts=no)
